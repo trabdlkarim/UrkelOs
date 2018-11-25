@@ -1,2 +1,1 @@
-# urkelOS
-Customized OpenWRT Firmware
+# Project Euler
