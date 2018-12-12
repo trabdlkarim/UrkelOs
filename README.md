@@ -91,3 +91,4 @@ Project Euler was started by Colin Hughes (a.k.a. euler) in October 2001 as a su
 Ideas for new problems come from our own members and they are developed by a team of hard working and talented mathematicians and programmers. So to put it simply, it is the members that run Project Euler.
 
 [Find out more on Project Euler.](https://projecteuler.net)
+[View Project Euler Solutions on GitHub](https://github.com/trabdlkarim/euler)
