@@ -1,5 +1,9 @@
 # About Project Euler
 
+Project Euler (named after Leonhard Euler) is a website dedicated to a series of computational problems intended to be solved with computer programs. The project attracts adults and students interested in mathematics and computer programming. Since its creation in 2001 by Colin Hughes, Project Euler has gained notability and popularity worldwide. It includes over 600 problems, with a new one added once every two weeks. Problems are of varying difficulty but each is solvable in less than a minute of CPU time using an efficient algorithm on a modestly powered computer. As of May 2018 Project Euler has about 800,000 users, from all over the world, who have solved at least one problem.
+
+*The project exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics.*
+
 ## Where should I start?
 
 That depends on your background. There are two tables containing problems. The Recent problems table lists the ten most recently published problems, so if you are new to Project Euler then you may prefer to start with the Archives to get a feel for the different types/difficulties of our problems. The first one-hundred or so problems are generally considered to be easier than the problems which follow. In the archives table you will be able to see how many people have solved each problem; as a general rule of thumb the more people that have solved it, the easier it is. To assist further there is a difficulty rating system which may also help you decide where to start. You are able to sort the problems in the archives table on ID, Solved By, or Difficulty.
@@ -85,3 +89,5 @@ Project Euler was started by Colin Hughes (a.k.a. euler) in October 2001 as a su
 ## Who runs Project Euler?
 
 Ideas for new problems come from our own members and they are developed by a team of hard working and talented mathematicians and programmers. So to put it simply, it is the members that run Project Euler.
+
+[Find out more on Project Euler.](https://projecteuler.net)
