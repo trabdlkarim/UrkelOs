@@ -92,4 +92,4 @@ Ideas for new problems come from our own members and they are developed by a tea
 
 [Find out more on Project Euler.](https://projecteuler.net)
 
-[View Project Euler Solutions on GitHub](https://github.com/trabdlkarim/euler)
+[View Project Euler Solutions on GitHub.](https://github.com/trabdlkarim/euler)
