@@ -20,3 +20,4 @@ author:
 # Custom vars
 version:             1.0.0
 my_gh_url:           https://github.com/trabdlkarim
+repo_name:           euler
