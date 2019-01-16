@@ -1,1 +1,22 @@
-theme: jekyll-theme-time-machine
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Touré A.Karim
+tagline:             '- Personal Github Pages'
+description:         'This is a personal project page that lists most important open source and personal projects made by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a>.'
+url:                 https://gh.trabdlkarim.com
+baseurl:             /euler
+paginate:            5
+
+# About/contact
+author:
+  name:              Touré A.Karim
+  url:               http://www.trabdlkarim.com
+  email:             contact@trabdlkarim.com
+
+# Custom vars
+version:             1.0.0
+my_gh_url:           https://github.com/trabdlkarim
