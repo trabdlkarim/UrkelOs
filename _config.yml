@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Touré A.Karim
-tagline:             '- Github Pages'
+tagline:             '- Personal Github Pages'
 description:         'This is a personal project page that lists most important open source and personal projects made by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a>.'
 url:                 https://gh.trabdlkarim.com
 baseurl:             /euler
@@ -20,4 +20,4 @@ author:
 # Custom vars
 version:             1.0.0
 my_gh_url:           https://github.com/trabdlkarim
-repo_name:           euler
+my_repo_name:        euler
