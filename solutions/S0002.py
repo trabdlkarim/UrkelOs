@@ -14,7 +14,7 @@ def fibo(n):
     
 def main():
     total=0
-    for i in range(11):
+    for i in range(1,11):
         fib = fibo(i)
         if (fib & 1):
             total += fib
